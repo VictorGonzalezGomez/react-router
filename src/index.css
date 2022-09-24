@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  height: 100vh;
+}
+.customImgNav{
+  width: 2rem;
+}
+.customImgHome {
+  width: 10rem;
+}
+.customContactContainer{
+  margin: 10rem;
+}
+.customFlexContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10rem;
+}
