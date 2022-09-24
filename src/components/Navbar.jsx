@@ -9,7 +9,7 @@ function Header() {
   return (
     <Navbar expand="lg" bg="danger" variant="dark">
       <Container>
-        <img src={cakeImg} className="customImgNav"/>
+        <img src={cakeImg} alt="dibujo de un pastel con una frutilla en la parte superior de color que asimila al chocolate y una franja roja en medio" className="customImgNav"/>
         <Navbar.Brand> Mis Pasteles</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
